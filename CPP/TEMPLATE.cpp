@@ -22,5 +22,5 @@ int main () {
     node<char>* node2 = new node<char> ('a');
     cout<<node2->val<<endl;
 
-
-}
+return 0;
+} 
