@@ -69,14 +69,11 @@ int main()
     s.push(3);
     s.push(4);
     cout << s.get_top() << endl;
-    ;
     s.push(5);
     cout << s.get_top() << endl;
-    ;
     s.push(6);
 
     s.pop();
     s.pop();
     cout << s.get_top() << endl;
-    ;
 }

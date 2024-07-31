@@ -1,3 +1,4 @@
+/*
 // check whether a given bracket sequence is balanced or not 
 
 #include<iostream>
@@ -33,4 +34,10 @@ bool isvalid  (string str) {
 int main () {
     string str = "({}(){})([])";
     cout<<isvalid(str)<<endl;
-}
+}  
+*/
+
+
+
+// find minimum numbert of brackets that we need to remove to make the given bracket sequence balanced
+
