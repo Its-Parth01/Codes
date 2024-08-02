@@ -1,4 +1,4 @@
-/*
+
 // MERGE TWO SORTED LL (IN THIS WE ARE JUST CHANGING LINKS BTW NOT CREATING ANY NEW NODE OR LL)
 
 #include<iostream>
@@ -86,6 +86,8 @@ int main (){
     l2.insert_at_tail(2);
     l2.insert_at_tail(4);
     l2.insert_at_tail(6);
+    l2.insert_at_tail(7);
+    l2.insert_at_tail(8);
     l2.display();
 
     linkedlist l3;
@@ -93,8 +95,6 @@ int main (){
     l3.display();
 
 }
-*/
-
 
 
 

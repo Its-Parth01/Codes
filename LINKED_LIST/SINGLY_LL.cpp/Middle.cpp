@@ -23,7 +23,7 @@ public:
         head = NULL;
     }
 
-    // void insert_at_tail (node* &head, int val)
+    // void insert_at_tail (node* &head, int val) 
     void insert_at_tail(int val)
     {
         node *n = new node(val);
@@ -75,6 +75,7 @@ int main()
     l1.insert_at_tail(3);
     l1.insert_at_tail(4);
     l1.insert_at_tail(5);
+    l1.insert_at_tail(6);
     l1.display();
 
     node *mid = middle(l1.head);

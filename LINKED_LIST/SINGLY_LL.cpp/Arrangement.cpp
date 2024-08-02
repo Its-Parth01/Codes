@@ -188,6 +188,7 @@ int main (){
 
 
 
+
 /*
 // 1-2-3-4-5-6  =>  1-6-2-5-3
 // first - last - second - second last .....
